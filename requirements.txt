@@ -1,0 +1,15 @@
+streamlit
+requests
+openai
+plotly
+azure-core
+azure-ai-inference
+numpy
+pandas
+wordcloud
+matplotlib
+google-api-python-client
+youtube-search-python
+youtube-comment-downloader
+youtube-search
+beautifulsoup4
